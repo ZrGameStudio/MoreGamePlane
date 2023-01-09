@@ -1,0 +1,6 @@
+修改more_game_config.json和share_config.json，运行build_html.bat，拷贝dist目录下的文件到对应项目的public目录
+配置文件中的MeasurementId到google analytics后台添加对应的网站来生成
+
+
+
+

@@ -1,0 +1,17 @@
+{
+  "JumpToPage": true,
+  "AndroidPackageName": "freegames.zombiesniper.deadtrigger",
+  "IOSAppStoreId": "1480803816",
+  "AppDisplayName": "Zombie 3D Gun Shooter",
+  "PageTitle": "Play Zombie Shooting Game",
+  "PageDescription": "Play Shooting Game With Us!",
+  "PageUrl": "https://sharezombiesurvival3d.mo-mb.com",
+  "PreviewImageUrl": "https://sharezombiesurvival3d.mo-mb.com/logo.jpg",
+  "AppStoreLogoUrl": "app_store.png",
+  "GooglePlayLogoUrl": "google_play.png",
+  "MoreGameBannerUrl": "banner.png",
+  "MoreGameLinkUrl": "https://more.mo-mb.com",
+  "SupportDeepLink": false,
+  "DeepLinkUrl": "",
+  "MeasurementId": "G-HTHDSPDJ84"
+}
